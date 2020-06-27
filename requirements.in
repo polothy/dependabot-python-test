@@ -1,0 +1,9 @@
+aws-cdk.aws-cloudformation<2
+aws-cdk.aws-codebuild<2
+aws-cdk.aws-codepipeline-actions<2
+aws-cdk.aws-codepipeline<2
+aws-cdk.aws-kms<2
+aws-cdk.aws-lambda<2
+aws-cdk.aws-s3<2
+aws-cdk.core<2
+pyyaml<6
